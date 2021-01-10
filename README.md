@@ -9,7 +9,7 @@ GPU: Asus AMD Radeon 5600XT EVO 6GB
 
 RAM: G.Skill Tridentz RGB 2x16GB 3600 mhz
 
-Motherboard: Asus tuf B550M Plus Asus
+Motherboard: Asus tuf B550M Plus
 
 Audio Codec: Realtek ALC S1200A
 
@@ -41,5 +41,8 @@ If you already installed the OS then just go to Network -> Advanced -> Hardware 
 ###### HDMI Monitor audio
 Sometimes the hdmi monitor audio doesn't show as an option for audio output
 
+###### Weird video glitch right before the mac OS gui loads
+This only happened after I added [this SSD to improve the gpu performance](https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/), but only happens for a second
+
 #### Link to branch
-[BigSur 11.1](/rsnchs/hackintosh-b550mplusasustuf-rx5600xt/bigsur11.1)
+[BigSur 11.1](../../tree/bigsur11.1)
