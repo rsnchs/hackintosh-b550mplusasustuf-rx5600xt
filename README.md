@@ -45,4 +45,4 @@ Sometimes the hdmi monitor audio doesn't show as an option for audio output
 This only happened after I added [this SSD to improve the gpu performance](https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/), but only happens for a second
 
 #### Link to branch
-[BigSur 11.1](../../tree/bigsur11.1)
+[BigSur 11.1](https://github.com/rsnchs/hackintosh-b550mplusasustuf-rx5600xt/tree/bigsur11.1)
